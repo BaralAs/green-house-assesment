@@ -3,9 +3,6 @@
 
 Project to process the receipt.
 
-
-
-
 ## Author
 
 - [@Ashmi Baral](https://github.com/BaralAs)
@@ -42,9 +39,13 @@ once all above steps complete you will able to see following in browser:
 ![Alt text](/imgs/homepage.png?raw=true "Optional Title")
 
 
-once you're able to  lunch `localhost:8080` `import greenhouse-assessment.postman_collection.json` into you postman.
-And Run the collection. You will be able to see following result:
+once you're able to  lunch `localhost:8080` import `greenhouse-assessment.postman_collection.json` into your postman.
+and Run the collection. You will be able to see following result:
  ![Alt text](/imgs/postmanresult.png?raw=true "Optional Title")      
+
+### Limitations:
+ - Add unit test cases with junit mockito.
+
 ## BUILD WITH
 * [Maven](https://maven.apache.org/)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.1/reference/htmlsingle/#boot-features-developing-web-applications)
