@@ -17,7 +17,7 @@ Project to process the receipt.
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/BaralAs/green-house-assesment.git
 ```
 
 Go to the project directory
